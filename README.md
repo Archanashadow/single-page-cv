@@ -6,7 +6,7 @@ This is a single-page CV built using semantic HTML only.
 👉 https://archanashadow.github.io/single-page-cv/
 
 ## 📂 Repository URL
-👉 https://github.com/Archanashadow/single-page-cv
+👉 https://github/Archanashadow/single-page-cv
 
 ## 🧠 How to Run Locally
 1. Clone this repository:

@@ -15,6 +15,5 @@ This is a single-page CV built using semantic HTML only.
 
 ## How to Run Locally
 1. Clone the repo  
-   ```bash
    git clone https://github.com/Archanashadow/single-page-cv.git
 

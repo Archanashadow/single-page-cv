@@ -12,3 +12,4 @@ This is a single-page CV built using semantic HTML only.
 1. Clone this repository:
    ```bash
    git clone https://github.com/Archanashadow/single-page-cv.git
+   '''

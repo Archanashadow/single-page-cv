@@ -2,16 +2,13 @@
 
 This is a single-page CV built using semantic HTML only.
 
-## 🌐 Live Project URL
+## 🌐 Project Page URL
 👉 https://archanashadow.github.io/single-page-cv/
 
-## Project Features
-- Semantic HTML structure  
-- SEO meta tags  
-- Open Graph (OG) tags  
-- Favicon included  
-- Single-page clean layout
+## 📂 Repository URL
+👉 https://github.com/Archanashadow/single-page-cv
 
 ## 🧠 How to Run Locally
-1. Clone the repo  
+1. Clone this repository:
+   ```bash
    git clone https://github.com/Archanashadow/single-page-cv.git
